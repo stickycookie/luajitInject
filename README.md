@@ -1,0 +1,2 @@
+# luajitInject
+inject luajit bytecode
